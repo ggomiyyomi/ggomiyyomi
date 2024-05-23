@@ -7,10 +7,10 @@
 
 ## 📸 My log
 <div style="display:flex; flex-direction:row;">
-    <a href="https://velog.io/@rabbit9965">
+    <a href="https://until.blog/@ggomiyyomi">
         <img src="https://img.shields.io/badge/Velog-69e4a1?style=for-the-badge&logo=Velog&logoColor=white"> 
     </a>
-    <a href="https://www.notion.so/Personal-space-a8a824fbe007402881907d315b17ed26">
+    <a href="https://www.notion.so/s-145383cc0c4b421a87b13b9bfb2981f8?pvs=4">
         <img src="https://img.shields.io/badge/Notion-90827b?style=for-the-badge&logo=Notion&logoColor=white"> 
     </a>
 </div><br>
