@@ -8,8 +8,8 @@
 ## 📸 My log
 <div style="display:flex; flex-direction:row;">
     <a href="https://until.blog/@ggomiyyomi">
-<!--         <img src="https://img.shields.io/badge/Velog-69e4a1?style=for-the-badge&logo=Velog&logoColor=white">  -->
-        <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Tistory</title><path d="M0 3a3 3 0 1 0 6 0 3 3 0 0 0-6 0m9 18a3 3 0 1 0 6 0 3 3 0 0 0-6 0m0-9a3 3 0 1 0 6 0 3 3 0 0 0-6 0m0-9a3 3 0 1 0 6 0 3 3 0 0 0-6 0m9 0a3 3 0 1 0 6 0 3 3 0 0 0-6 0"/></svg>
+        <img src="https://img.shields.io/badge/Velog-69e4a1?style=for-the-badge&logo=Velog&logoColor=white">
+
     </a>
     <a href="https://www.notion.so/s-145383cc0c4b421a87b13b9bfb2981f8?pvs=4">
         <img src="https://img.shields.io/badge/Notion-90827b?style=for-the-badge&logo=Notion&logoColor=white"> 
