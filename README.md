@@ -7,8 +7,8 @@
 
 ## 📸 My log
 <div style="display:flex; flex-direction:row;">
-    <a href="https://until.blog/@ggomiyyomi">
-        <img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
+    <a href="https://doyiya24.tistory.com/">
+        <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/></a>
     </a>
     <a href="https://www.notion.so/s-145383cc0c4b421a87b13b9bfb2981f8?pvs=4">
         <img src="https://img.shields.io/badge/Notion-90827b?style=for-the-badge&logo=Notion&logoColor=white"> 
