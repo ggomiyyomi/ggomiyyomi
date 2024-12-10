@@ -8,8 +8,7 @@
 ## 📸 My log
 <div style="display:flex; flex-direction:row;">
     <a href="https://until.blog/@ggomiyyomi">
-        <img src="https://img.shields.io/badge/Velog-69e4a1?style=for-the-badge&logo=Velog&logoColor=white">
-
+        <img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
     </a>
     <a href="https://www.notion.so/s-145383cc0c4b421a87b13b9bfb2981f8?pvs=4">
         <img src="https://img.shields.io/badge/Notion-90827b?style=for-the-badge&logo=Notion&logoColor=white"> 
@@ -29,7 +28,7 @@
 
 ## 🔥 Contact
 <div style="display:flex; flex-direction:row;">
-    <a href="https://www.instagram.com/hi_d0ng._.y2/">
+    <a href="https://www.instagram.com/he_.zng">
         <img src="https://img.shields.io/badge/Instagram-ffacb6?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
     <a href="heejung9965@naver.com">
